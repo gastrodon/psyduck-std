@@ -8,3 +8,5 @@ require (
 )
 
 require golang.org/x/text v0.5.0 // indirect
+
+replace github.com/zclconf/go-cty => ../replace/go-cty
